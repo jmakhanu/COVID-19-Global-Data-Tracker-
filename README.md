@@ -1,5 +1,4 @@
- 
- Title  COVID-19 Global Data TrackerProject 
+Title  COVID-19 Global Data TrackerProject 
  Description
 This project is a data analysis and reporting notebook (or application) designed to track global COVID-19 trends. It analyzes cases, deaths, recoveries, and vaccinations across various countries and over time.
  The project involves cleaning and processing real-world data, performing exploratory data analysis (EDA), generating insights, and visualizing trends using Python data tools.
@@ -22,7 +21,6 @@ This project is a data analysis and reporting notebook (or application) designed
 #How to Run the ProjectDownload the Data:Download the owid-covid-data.csv file from:https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csvSave this file in the same directory as your Python script.Install Dependencies:If you don't have the required libraries installed, open your terminal or command prompt and run:pip install pandas matplotlib seaborn plotly
 Run the Python Script:Save the provided Python code (e.g., as covid_tracker.py) in the same directory as the owid-covid-data.csv file. Then, open your terminal or command prompt, navigate to that directory, and run:python covid_tracker.py
 If you are using a Jupyter Notebook, you can paste the code into cells and run them sequentially.View Outputs:The script will generate several plots that will appear in separate windows (or inline if using Jupyter). Close each plot to proceed. If Plotly is used, interactive maps will open in your web browser. The console will also display various data exploration outputs and prompts for your insights.Enjoy tracking global COVID-19 trends!
-=======
 # COVID-19-Global-Data-Tracker-
 
 #Project Description
@@ -168,4 +166,3 @@ View Outputs:
 The script will generate several plots that will appear in separate windows (or inline if using Jupyter). Close each plot to proceed. If Plotly is used, interactive maps will open in your web browser. The console will also display various data exploration outputs and prompts for your insights.
 
 Enjoy tracking global COVID-19 trends!
-
